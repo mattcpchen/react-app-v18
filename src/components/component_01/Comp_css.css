@@ -1,0 +1,10 @@
+.CssComponent {
+  margin: 5px;
+  text-align: center;
+  color: red;
+}
+
+.CssComponent .content {
+  font-size: 12px;
+  text-align: center;
+}

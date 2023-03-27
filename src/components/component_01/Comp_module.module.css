@@ -1,0 +1,12 @@
+.CssModuleComponent {}
+
+.CssModuleComponent .header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.CssModuleComponent .content {
+  font-size: 12px;
+  text-align: center;
+}
